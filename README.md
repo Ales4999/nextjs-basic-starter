@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# nextjs-basic-starter
+
+This repository contains starter templates for my HackCU 007 slides.
